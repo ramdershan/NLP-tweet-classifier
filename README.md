@@ -19,4 +19,4 @@ This project involves training a text classifier that classifies tweets as eithe
 
 **nlptweetstf.ipynb** contains a basic RNN using LSTMs and was based on a tensorflow tutorial I did to learn and understand the processes required to train a NLP model.
 
-**nlptweetshuggingfacetransformer.ipynb** contains my most recent model. I used the Hugging Face library to fine-tune a transformer model to classify the tweets. I imported *bertweet-base* from *vinai* and fine-tuned it on my dataset for my task.
+**nlptweetshuggingfacetransformer.ipynb** contains my most recent model and some basic Exploratory Data Analysis (EDA). I used the Hugging Face library to fine-tune a transformer model to classify the tweets. I imported *bertweet-base* from *vinai* and fine-tuned it on my dataset for my task.
